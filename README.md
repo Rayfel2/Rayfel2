@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rayfel2&theme=react&show_icons=true&hide_border=true&count_private=true" height="200"/>
-  <img src="https://metrics.lecoq.io/Rayfel2?template=classic&isocalendar=1&languages=1&isocalendar.duration=full-year&config.timezone=America%2FSanto_Domingo" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayfel2&layout=compact&theme=react&hide_border=true" height="200"/>
 </p>
 
 
