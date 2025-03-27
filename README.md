@@ -1,12 +1,8 @@
 ![Banner Rayfel](Banner.png)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=Hola%2C+soy+Rayfel+Ogando;%7C+Desarrollador+Web+%26+M%C3%B3vil+%7C;%7C+SQL%2C+No-SQL%2C+Angular%2C+React%2C+.NET+%7C)](https://git.io/typing-svg)
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-## 📊 GEstadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rayfel2&theme=react&show_icons=true&hide_border=true&count_private=true" height="200"/>
