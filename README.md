@@ -9,7 +9,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rayfel2&theme=react&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rayfel2&theme=react&show_icons=true&hide_border=true&count_private=true" height="200"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rayfel2&theme=algolia&no-frame=true&row=1&margin-w=15" height="200"/>
 </p>
 
 <p align="center">
