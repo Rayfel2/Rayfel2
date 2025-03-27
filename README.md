@@ -10,8 +10,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rayfel2&theme=react&show_icons=true&hide_border=true&count_private=true" height="200"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Rayfel2&theme=algolia&no-frame=true&row=1&margin-w=15" height="200"/>
+  <img src="https://metrics.lecoq.io/Rayfel2?template=classic&isocalendar=1&languages=1&isocalendar.duration=full-year&config.timezone=America%2FSanto_Domingo" height="200"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayfel2&theme=react-dark&hide_border=true" alt="Activity Graph" />
